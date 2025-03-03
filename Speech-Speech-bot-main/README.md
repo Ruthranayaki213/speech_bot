@@ -115,7 +115,7 @@ This project is licensed under the MIT License.
 Author
 ------
 
-Developed by **Your Name**. For queries, feel free to contact: **<ruthranayakij21@gmail.com>**.
+Developed by **Ruthranayaki J**. For queries, feel free to contact: **<ruthranayakij21@gmail.com>**.
 
 * * * * *
 
